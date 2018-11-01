@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuqi Liao</title>
+    <link>https://yuqiliao.github.io/</link>
+    <description>Recent content on Yuqi Liao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://yuqiliao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CV</title>
+      <link>https://yuqiliao.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yuqiliao.github.io/home/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instagram @WeThePeopleDC - Part 1</title>
+      <link>https://yuqiliao.github.io/blog/instagram-analysis/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuqiliao.github.io/blog/instagram-analysis/</guid>
+      <description>If you have some footprints in Washington D.C. and are active on Instagram, chances are that you may have heard of, or are currently following, the Instagram account @WeThePeopleDC. As its name hints, the account runs on an interesting model: each day, the handle is held by a different person living or working in the nation’s capital. The idea is that the account followers get to see the district through the eyes of Washingtonians of all backgrounds.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://yuqiliao.github.io/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://yuqiliao.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yuqiliao.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuqiliao.github.io/cv/</guid>
+      <description>Yuqi Liao - Curriculum Vitae    Yuqi Liao  Email: yuqi.liao@georgetown.edu Website: yuqiliao.github.io GitHub: github.com/yuqiliao Twitter: twitter.com/YuqiLiao      Executive Summary   I am a data and research professional with an interdisciplinary background in public policy, econometrics, large-scale survey and assessment, machine learning, and data visualization.       Skills   Computational Skills R App development with Shiny Python Stata SPSS SPSS SQL ArcGIS HTML D3.</description>
+    </item>
+    
+  </channel>
+</rss>
